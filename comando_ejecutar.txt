@@ -1,0 +1,1 @@
+nohup python3 -u training_script.py > out2.txt
